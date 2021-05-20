@@ -207,7 +207,7 @@ function esPositivo(numero) {
                                           {return false;
                                           }
 
-                                             if (numero % 2 !== 0 )
+                                             if (numero > 0 )
                                                 {return "Es positivo";
                                                 }
                                                 else 
